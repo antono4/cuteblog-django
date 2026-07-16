@@ -1,5 +1,8 @@
 # Cuteblog 🥳 Phyton Django
 
+> **Created by Antono**
+
+
 Cuteblog for phyton django with admin backend django CMS
 
 Tes Drive Demo : [https://cutedjango.axcora.my.id →](https://cutedjango.axcora.my.id/)
